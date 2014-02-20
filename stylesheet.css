@@ -1,1 +1,7 @@
- 
+@font-face {
+	
+	font-family: 'Noto Sans';
+	font-style: normal;
+
+	src: local('Noto Sans'), local('NotoSans'), url(https://themes.googleusercontent.com/static/fonts/notosans/v2/JLrcxvhkM17op1c4raL9Fg.woff) format('woff');
+}
