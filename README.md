@@ -4,6 +4,7 @@ PurpleKangaroo.github.io
 Github Page
 
 ##Tools & Resources
+####[W3Schools Online Web Tutorials](http://www.w3schools.com/)
 ####[Codeacademy](http://www.google.com/url?sa=t&rct=j&q=code%20academy&source=web&cd=1&cad=rja&ved=0CCUQFjAA&url=http%3A%2F%2Fwww.codecademy.com%2F&ei=fmwGU__sIpK8oQTPm4HwAQ&usg=AFQjCNGZX2lv2OpP_RdAa665qAy5vJy0tQ&sig2=lypLIIUlHMjK4OVJbfAa0g&bvm=bv.61725948,d.cGU)
 - [jQuery](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=http%3A%2F%2Fwww.codecademy.com%2Ftracks%2Fjquery&ei=AmsGU4u8NYbtoASowoKgAg&usg=AFQjCNGi1C7BZCQuuQYUPyL8r2eoVtDRdw&sig2=SUI6uZ5RKR-hELYf7K_xlw&bvm=bv.61725948,d.cGU)
 - [HTML5 & CSS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCsQFjAA&url=http%3A%2F%2Fwww.codecademy.com%2Ftracks%2Fweb&ei=q2sGU9T1MpTsoATW54CAAg&usg=AFQjCNHaNDsBR4KMg0oV0vuud6cc2FNJ1g&sig2=XLeqdMIa0LADsIxr1GhPCg&bvm=bv.61725948,d.cGU)
