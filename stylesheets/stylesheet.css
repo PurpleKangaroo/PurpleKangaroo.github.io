@@ -13,6 +13,63 @@ body {
 	font-family: 'Noto Sans';
 }
 
+header {
+	
+	height: 40px;
+
+	display: auto;
+	position:center;
+	
+	padding: 1px;
+
+	margin-right: 4px;
+	margin-top:0px;
+	margin-left: 4px;
+
+	border-bottom: solid #FFA955;
+	border-bottom-width: medium;
+
+	color: #FFA955;
+	font-family: inherit;
+	text-align: left;
+}
+
+header div h1 {
+	
+	float: left;
+	display:inline-block;
+	
+	margin: 0;
+
+	line-height: 38px;
+	
+	font-size: 36px;
+}
+
+header div div h3 {
+	float: right;
+	display:block;
+	margin: 0;
+
+	line-height: 38px;
+
+	font-size: 18px;
+}
+
+header div {
+
+	float: bottom;
+	display: block;
+}
+
+header div div h3 a {
+
+	color: #FFA955;
+	font-style: normal;
+	text-decoration: none;
+}
+
+
 .project {
 	
 }
