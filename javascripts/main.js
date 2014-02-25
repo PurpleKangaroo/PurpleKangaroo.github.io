@@ -1,3 +1,3 @@
 $(document).ready(function(){
- $('header').slideDown('slow');
+ $('header div').slideDown('slow');
  });
