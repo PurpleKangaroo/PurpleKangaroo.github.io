@@ -76,6 +76,7 @@ body p {
 #slideDown {
 	display:none;
 	margin: 1px;
+	padding: 1px;
 }
 
 .project {
